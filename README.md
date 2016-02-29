@@ -1,4 +1,4 @@
-# Sublime Text Default Theme width Side Bar Icons
+# Sublime Text Default Theme with Side Bar Icons
 
 This is not Package. Sublime Text 3 only.
 
@@ -26,8 +26,11 @@ When using Sublime Default Theme, Add sidebar icons.
 
 
 
-# Notes
+## Notes
 - Most of the icons I took from [SetiUI-Icons-Sublime](https://github.com/mrmartineau/SetiUI-Icons-Sublime),[Material Theme](https://github.com/equinusocio/material-theme), [sublime-text-sidebar-icons](https://github.com/mrliptontea/sublime-text-sidebar-icons), some are slightly modified and some are I drew myself.
 - There is a folder included with some files types from `jesseweed` and `DanBrooker` to test the icons.
 - Anything less than 'ST3 Build 3107' wont get the sidebar icons to work.
 
+
+## Another Themes
+- [itg.flat Side Bar Icons](https://github.com/sou-lab/itg.flat-Icons-Sublime)
